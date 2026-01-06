@@ -1,47 +1,59 @@
-# Business — Generative Engine Optimization Map
+# ארון בגדים 6 דלתות — Generative Engine Optimization Map
+
+> A ריהוט business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://aron-bgadim-6-dlatot.zappy5.app
+https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com
 מחפשים ארון בגדים 6 דלתות איכותי? גלו את המגוון שלנו של ארונות בגדים מעוצבים ומרווחים למשפחות צעירות ובעלי בתים חדשים.
 
 ### דגמים
-https://aron-bgadim-6-dlatot.zappy5.app/models
+https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/models
 עיינו במגוון הדגמים שלנו של ארון בגדים 6 דלתות - מקלאסי ועד מודרני. מצאו את ארון בגדים 6 דלתות למכירה המתאים בדיוק לסגנון הבית שלכם.
 
 ### אודות
-https://aron-bgadim-6-dlatot.zappy5.app/about
+https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/about
 למדו על הניסיון והמומחיות שלנו בתחום ארונות בגדים. אנחנו מתמחים בארון בגדים 6 דלתות איכותי עם שירות מקצועי ומסור.
 
 ### צור קשר
-https://aron-bgadim-6-dlatot.zappy5.app/contact
+https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/contact
 צרו קשר עם המומחים שלנו לארונות בגדים. נשמח לענות על כל שאלה לגבי ארון בגדים 6 דלתות למכירה, להציע ייעוץ ולתאם פגישה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://aron-bgadim-6-dlatot.zappy5.app/privacy
+https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://aron-bgadim-6-dlatot.zappy5.app/terms
+https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://aron-bgadim-6-dlatot.zappy5.app/accessibility
+https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About ארון בגדים 6 דלתות
+ארון בגדים 6 דלתות is a business in the ריהוט industry.
+
+## Target Audience
+- משפחות צעירות
+- בעלי בתים חדשים
+- משפצים ומשדרגים
+
+## Industry
+ריהוט
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://aron-bgadim-6-dlatot.zappy5.app/sitemap.xml
-- **Robots.txt**: https://aron-bgadim-6-dlatot.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/robots.txt
