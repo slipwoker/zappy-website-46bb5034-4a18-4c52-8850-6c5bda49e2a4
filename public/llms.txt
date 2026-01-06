@@ -1,6 +1,4 @@
-# ארון בגדים 6 דלתות — Generative Engine Optimization Map
-
-> A ריהוט business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,17 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ארון בגדים 6 דלתות
-ארון בגדים 6 דלתות is a business in the ריהוט industry.
-
-## Target Audience
-- משפחות צעירות
-- בעלי בתים חדשים
-- משפצים ומשדרגים
-
-## Industry
-ריהוט
-
+## About Business
 ---
 
 # Additional Resources
