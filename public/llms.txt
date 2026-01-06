@@ -1,47 +1,59 @@
-# Business — Generative Engine Optimization Map
+# ארון בגדים 6 דלתות — Generative Engine Optimization Map
+
+> A ריהוט business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://aron-bgadim-6-dlatot.zappy5.app
 מחפשים ארון בגדים 6 דלתות איכותי? גלו את המגוון שלנו של ארונות בגדים מעוצבים ומרווחים למשפחות צעירות ובעלי בתים חדשים.
 
 ### דגמים
-https://example.com/models
+https://aron-bgadim-6-dlatot.zappy5.app/models
 עיינו במגוון הדגמים שלנו של ארון בגדים 6 דלתות - מקלאסי ועד מודרני. מצאו את ארון בגדים 6 דלתות למכירה המתאים בדיוק לסגנון הבית שלכם.
 
 ### אודות
-https://example.com/about
+https://aron-bgadim-6-dlatot.zappy5.app/about
 למדו על הניסיון והמומחיות שלנו בתחום ארונות בגדים. אנחנו מתמחים בארון בגדים 6 דלתות איכותי עם שירות מקצועי ומסור.
 
 ### צור קשר
-https://example.com/contact
+https://aron-bgadim-6-dlatot.zappy5.app/contact
 צרו קשר עם המומחים שלנו לארונות בגדים. נשמח לענות על כל שאלה לגבי ארון בגדים 6 דלתות למכירה, להציע ייעוץ ולתאם פגישה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://aron-bgadim-6-dlatot.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://aron-bgadim-6-dlatot.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://aron-bgadim-6-dlatot.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About ארון בגדים 6 דלתות
+ארון בגדים 6 דלתות is a business in the ריהוט industry.
+
+## Target Audience
+- משפחות צעירות
+- בעלי בתים חדשים
+- משפצים ומשדרגים
+
+## Industry
+ריהוט
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://aron-bgadim-6-dlatot.zappy5.app/sitemap.xml
+- **Robots.txt**: https://aron-bgadim-6-dlatot.zappy5.app/robots.txt
