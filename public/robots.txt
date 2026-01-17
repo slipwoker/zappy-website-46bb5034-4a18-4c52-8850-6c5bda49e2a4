@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-46bb5034-4a18-4c52-8850.onrender.com/sitemap.xml
+Sitemap: https://aron-bgadim-6-dlatot.zappy5.app/sitemap.xml
